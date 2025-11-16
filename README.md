@@ -1,6 +1,3 @@
-# Case_study_01
-
-
 # Case Study 01 - Data Analysis Project
 
 ##  Project Overview
